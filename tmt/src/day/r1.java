@@ -16,6 +16,9 @@ public class r1 {
 		// TODO Auto-generated method stub
        r1 g= new r1();
        g.j1("blue", 76);
+       
+       System.out.print(g.k);
+       System.out.print(g.h);
 	}
 }
 
