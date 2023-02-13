@@ -22,7 +22,7 @@ public class nett {
 
 		f.setrollno(25);
 
-		f.setrollno(39);
+		f.setrollno(-39);
 
 	System.out.println(f.getrollno());
 
